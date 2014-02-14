@@ -1,1 +1,1 @@
-dfghjgfvbn
+public class {}
