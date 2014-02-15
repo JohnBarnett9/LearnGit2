@@ -75,14 +75,15 @@ public class HouseTest {
 		House house3 = new House();
 		int result = house3.multiplyByThree(1);
 		assertEquals(1 * 3, result);
+		
+		House house4 = new House();
+		int parameterPassedIn = 2;
+		result = house4.multiplyByThree(parameterPassedIn);
+		assertEquals(2 * 3, result);
 	}
 	
 	@Test
 	public void testMultiplyByThree2(){
-		House house4 = new House();
-		int parameterPassedIn = 2;
-		int result = house4.multiplyByThree(parameterPassedIn);
-		assertEquals(2 * 3, result);
 	}
 	
 	@Test
