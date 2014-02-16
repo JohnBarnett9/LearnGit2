@@ -20,9 +20,9 @@ package LearnGit2;
  * @author John
  * change
  */
-public class Room {
-	int i;
+public class Room(int roomnum {
+	int r;
 	Room(){
-		
+		r = roomnum; 
 	}
 }
