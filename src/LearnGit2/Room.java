@@ -23,6 +23,7 @@ package LearnGit2;
 public class Room {
 	int r;
 	Room(int roomnum){
-		r = roomnum; 
+		r = roomnum;
+		// thx for fix
 	}
 }
