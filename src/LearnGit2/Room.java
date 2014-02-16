@@ -18,7 +18,7 @@ package LearnGit2;
 
 /**
  * @author John
- *
+ * change
  */
 public class Room {
 	int i;
