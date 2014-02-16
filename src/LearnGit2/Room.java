@@ -24,6 +24,6 @@ public class Room {
 	int r;
 	Room(int roomnum){
 		r = roomnum;
-		//fghjkl;
-	}
+		//DON'T KEEP CHANGING MY COMMENTS!!!!!!!!!!!!
+		}
 }
