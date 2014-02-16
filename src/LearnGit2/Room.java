@@ -9,6 +9,7 @@ package LearnGit2;
  */
 public class Room {
 
+	int i = 0;
 	Room(){
 		
 	}
